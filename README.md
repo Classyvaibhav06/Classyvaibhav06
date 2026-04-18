@@ -64,9 +64,9 @@ I am a passionate developer focused on building functional, user-centric applica
 
 I'm always open to collaborating on interesting projects or discussing tech. 
 
-- **Portfolio:** [Coming Soon]
-- **LinkedIn:** [Insert your LinkedIn Link Here]
-- **Twitter/X:** [@YourHandle]
+- **Portfolio:** [https://www.vaibhav-ghoshi.in/]
+- **LinkedIn:** [https://www.linkedin.com/in/vaibhavghoshi/]
+- **Twitter/X:** [@coming soon]
 
 ---
 
