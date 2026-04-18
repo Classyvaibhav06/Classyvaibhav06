@@ -1,27 +1,75 @@
-# 💫 About Me:
-web dev  and dsa  with C++<br>curious minded<br>open for collaboration<br>open for freelancing in developmemt<br>tech digger<br><br>
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhav.ghoshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](Vaibhav Ghoshi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaibhav ghoshi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](code_jaibabba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhav7290119@gmail.com) 
+<p align="center">
+  <strong>Transforming ideas into reality through clean code and creative engineering.</strong>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Classyvaibhav06&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Classyvaibhav06&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Classyvaibhav06&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Classyvaibhav06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Classyvaibhav06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Classyvaibhav06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Classyvaibhav06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I am a passionate developer focused on building functional, user-centric applications. I enjoy exploring new technologies and pushing the boundaries of what's possible with code.
+
+- 🔭 **I’m currently working on:** Scaling personal projects and mastering system design.
+- 🌱 **I’m currently learning:** Advanced Cloud Architecture and DevOps workflows.
+- 💬 **Ask me about:** JavaScript, Frontend optimization, or the latest tech trends.
+- ⚡ **Fun fact:** I believe that "Perfect is the enemy of Good," but "Clean Code" is non-negotiable.
+
+---
+
+### 🛠️ My Toolbox
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,mongodb,postgres,git,docker,tailwind,vscode" />
+  </a>
+</p>
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
+| **Backend** | Node.js, Express, RESTful APIs |
+| **Database** | MongoDB, PostgreSQL, SQL |
+| **Tools** | Git, Docker, Postman, Vercel |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Classyvaibhav06&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Classyvaibhav06&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Classyvaibhav06&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+I'm always open to collaborating on interesting projects or discussing tech. 
+
+- **Portfolio:** [Coming Soon]
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Twitter/X:** [@YourHandle]
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+</p>
