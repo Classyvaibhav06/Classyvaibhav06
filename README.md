@@ -43,7 +43,11 @@ I am a passionate developer focused on building functional, user-centric applica
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Classyvaibhav06/Classyvaibhav06/output/snake.svg" alt="GitHub Snake" />
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Classyvaibhav06&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -61,7 +65,7 @@ I am a passionate developer focused on building functional, user-centric applica
 I'm always open to collaborating on interesting projects or discussing tech. 
 
 - **Portfolio:** [Coming Soon]
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** [Insert your LinkedIn Link Here]
 - **Twitter/X:** [@YourHandle]
 
 ---
