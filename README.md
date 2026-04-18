@@ -66,7 +66,7 @@ I'm always open to collaborating on interesting projects or discussing tech.
 
 - **Portfolio:** [https://www.vaibhav-ghoshi.in/]
 - **LinkedIn:** [https://www.linkedin.com/in/vaibhavghoshi/]
-- **Twitter/X:** [@coming soon]
+- **Twitter/X:** [https://x.com/ghoshi_vai27708]
 
 ---
 
