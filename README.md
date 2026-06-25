@@ -36,7 +36,7 @@ I am a passionate developer focused on building functional, user-centric applica
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript,GSAP |
 | **Backend** | Node.js, Express, RESTful APIs |
 | **Database** | MongoDB, PostgreSQL, SQL |
 | **Tools** | Git, Docker, Postman, Vercel |
