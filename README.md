@@ -60,7 +60,7 @@ I am a passionate developer focused on building functional, user-centric applica
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect with Me for collab
 
 I'm always open to collaborating on interesting projects or discussing tech. 
 
