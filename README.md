@@ -22,7 +22,7 @@ I am a passionate developer focused on building functional, user-centric applica
 - 🔭 **I’m currently working on:** Scaling personal projects and mastering system design.
 - 🌱 **I’m currently learning:** Advanced Cloud Architecture and DevOps workflows.
 - 💬 **Ask me about:** JavaScript, Frontend optimization, or the latest tech trends.
-- ⚡ **Fun fact:** I believe that "Perfect is the enemy of Good," but "Clean Code" is non-negotiable.
+- ⚡ **Fun fact:** I believe that "Perfect is the enemy of Good," but "Clean Code" is non-negotiable and nessacity.
 
 ---
 
